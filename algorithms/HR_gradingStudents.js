@@ -51,3 +51,9 @@ const gradingStudents = (grades) => {
 console.log("======================== ");
 
 console.log(gradingStudents([73, 67, 38, 33])); // 75 67 40 33
+console.log(
+  gradingStudents([
+    22, 86, 30, 0, 16, 51, 53, 42, 48, 22, 69, 12, 27, 34, 24, 95, 16, 32, 22,
+    52, 35, 93, 99, 87, 88,
+  ])
+);
