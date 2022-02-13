@@ -19,4 +19,3 @@ function oddNumbers(l, r) {
 console.log("======================== ");
 
 console.log(oddNumbers(7, 15)); //
-console.log(oddNumbers(7, 15)); //
